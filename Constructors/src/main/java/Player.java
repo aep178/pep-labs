@@ -31,6 +31,8 @@ public class Player {
      * @param playerName the name of the player to be created.
      */
     public Player(String playerName){
+        Player newPlayer = new Player("Mario");
+        Player newPlayer = new Player("Mario", 35);
 
     }
 
