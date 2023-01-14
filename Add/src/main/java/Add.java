@@ -11,8 +11,6 @@ public class Add {
      * @return the sum of a and b.
      */
     public int addNumbers(int a, int b){
-        System.out.println((a + b));
-
-        return 0;
+        return a + b;
     }
 }
