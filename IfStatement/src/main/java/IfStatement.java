@@ -20,8 +20,9 @@ public class IfStatement {
         if (x > y) {
             return x;
         }
-        return y;
-
+        else {
+            return y;
+        }
         
     }
 }
